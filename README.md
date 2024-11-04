@@ -19,7 +19,7 @@ Proyecto de un sistema de blog implementado en Laravel 11 con un panel de admini
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/blog_crud.git
+   git clone https://github.com/Daber98/Blog_crud_Final_Desarrollo_Web.git
    cd blog_crud
 
 2. **Instala las dependencias del proyecto:**
